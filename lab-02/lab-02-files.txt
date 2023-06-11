@@ -1,2 +1,0 @@
-.gitignore
-lab-02-node.js
