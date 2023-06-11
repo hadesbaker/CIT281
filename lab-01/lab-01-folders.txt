@@ -1,3 +1,0 @@
-total 728
--rw-r--r--@ 1 TK  staff  368690 Apr  4 13:24 lab-01-folders.png
--rw-r--r--  1 TK  staff       0 Apr  4 13:32 lab-01-folders.txt
